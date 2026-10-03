@@ -4,7 +4,7 @@ tests = [
  'I feel lonely at school',
  'Do I have depression?',
  'What medication should I take?',
- 'I want to start exercising daily',
+ 'I am stressed about exams',
  'My self-help plan is not helping, I need a professional'
 ]
 
